@@ -1,6 +1,6 @@
 # Netflix-movie-reccomendation system using Python and Machine Learning
 
-**This is a little project for my exercize,
+**This is a little project for my exercise,
 To run app, first run all in Yupyter notebook, because pickle files is needed to import in visual studio code and show movies in website later.**
 
 **then run app in visaul studio code terminal with: 
